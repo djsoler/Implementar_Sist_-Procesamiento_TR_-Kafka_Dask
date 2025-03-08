@@ -1,1 +1,0 @@
-# Implementar_Sist_-Procesamiento_TR_-Kafka_Dask
